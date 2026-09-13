@@ -11,17 +11,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Presentations"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Research"
+    url: /research/    
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Travel"
+    url: /travelblogs/
     
   - title: "CV"
     url: /cv/
