@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Ujan Dey",
+    "email": "ujan_dey@tamu.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://ujan-dey05.github.io",
+    "summary": "Currently employed at Texas A&M University, as a Graduate Assistant Research (GAR). I am pursuing my Doctoral degree here.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "College Station",
       "countryCode": "US",
-      "region": ""
+      "region": "Texas"
     },
     "profiles": [
       {
