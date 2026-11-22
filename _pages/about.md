@@ -7,16 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Ujan Dey, a PhD student in the Department of Geography at Texas A&M University. I work with [Dr. Andrew Moodie](https://www.andrewjmoodie.com), in the [TAMU Surface Processes Lab](https://tamu-surface-processes.github.io).
+Howdy! Welcome to my website!
 
-Research
+I'm Ujan Dey, a PhD student in the Department of Geography at Texas A&M University. I work with [Dr. Andrew Moodie](https://www.andrewjmoodie.com), in the [TAMU Surface Processes Lab](https://tamu-surface-processes.github.io). When I am not doing research, I enjoy traveling, exploring new cities, nature and trying out different cuisines. 
+
+Current Research
 ======
-I study how falling sea level makes river channels in deltas cut down into the land (channel incision). I want to find out how fast sea level has to drop before deltaic channels start to incise.
-
-To do this, I combine numerical modeling with pyDeltaRCM and geometric analysis.
+My current research focuses on modeling the morphodynamic response of a falling sea level on a delta. To do this, I combine analytical modeling with numerical modeling using [pyDeltaRCM](https://deltarcm.org/pyDeltaRCM/index.html). I am also a part of the [sandpiper toolchain](https://sandpiper-toolchain.org/sandplover/), where I contribute to make the tool better and user-friendly for anyone using it. 
 
 Interests
 ======
 - Delta and river morphodynamics
 - Sea-level change
 - Numerical modeling
+
+Past Research
+======
+You can find my past research and publications on the [Research](/research/) page.
+
+Thanks and Gig 'em!!
