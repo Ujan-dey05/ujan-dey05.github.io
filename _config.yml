@@ -23,7 +23,7 @@ repository               : "Ujan-dey05/ujan-dey05.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image.png"
   name             : "Ujan Dey"
   pronouns         : "he/him/his"  
   bio              : "I am a Graduate PhD student working with Dr. Andrew Moodie on modeling of Sea Level fall in deltas"
@@ -64,7 +64,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : https://www.instagram.com/ud.kop05?evlk=MWhubXZqbnY4MGx2bQ==
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
