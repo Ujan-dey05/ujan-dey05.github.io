@@ -33,7 +33,7 @@ author:
   email            : "ujan_dey@tamu.edu" 
 
   # Academic websites
-  academia         : "https://independent.academia.edu/UjanDey2"
+  academia         : #"https://independent.academia.edu/UjanDey2"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=yq0hYHsAAAAJ&hl=en&authuser=1"
   inspire-hep      : # URL
