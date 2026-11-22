@@ -17,8 +17,8 @@ main:
   - title: "Research"
     url: /research/    
         
-  - title: "Travel"
-    url: /travelblogs/
+  #- title: "Travel"
+  #  url: /travelblogs/
     
   - title: "CV"
     url: /cv/

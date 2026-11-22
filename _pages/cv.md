@@ -11,54 +11,63 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Geography**, Texas A&M University, College Station, TX (in progress)
+  * Research focus: Numerical modelling of deltas under steady sea-level fall
+  * Advisor: Dr. Andrew Moodie
+* **M.Sc. in Geography**, Jadavpur University, Kolkata, India, 2024
+  * Thesis: "Mid-channel Bar Dynamics of Bhagirathi-Hooghly River"
+* **B.Sc. in Geography**, Chandernagore College (University of Burdwan), India, 2022
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Fluvial geomorphology, process geomorphology, landform dynamics, remote sensing and GIS in geomorphology, watershed processes, modelling of surface processes.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Master's Thesis:** Mid-channel Bar Dynamics of Bhagirathi-Hooghly River
+  * Studied how mid-channel bar shapes changed over time using remote sensing and GIS
+  * Tested whether tides affect the shape of mid-channel bars on this river
+  * Did fieldwork 
+* **Master's Project:** Morphology of plunge pools and pothole growth, Kalikhola River
+  * Studied how potholes grow and what controls their growth
+  * Measured plunge pools and potholes in the field 
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+
+Technical Skills
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* **Remote sensing and GIS:** QGIS, ArcMap, ERDAS Imagine, SNAP, GRASS GIS, Google Earth Pro, Google Earth Engine
+* **Programming Languages:** Python; numerical modelling with pyDeltaRCM, R 
+* **Other:** MS Office, WordPress
+
+Certificate Courses
 ======
-* Currently signed in to 43 different slack teams
+* Remote Sensing in Glaciology (2-day training), Indaca Institute of Skills, Kolkata
+* Artificial Intelligence and Machine Learning (3-month industrial training), YHills with E-Cell IIT Guwahati, 2025
+
+Awards and Qualifying Exams
+======
+* UGC-NET (June 2024), qualified for PhD admission, 92.36 percentile
+* CUET (PG) 2022, qualified for postgraduate admission
+
+Leadership and Outreach
+======
+* Treasurer, Association of Geography Graduate Students (AGGS), Texas A&M University, 2026-
+* Class Representative, M.Sc. batch (2022–2024), Department of Geography, Jadavpur University
+* Organizer and volunteer, menstrual awareness camp and free sanitary napkin distribution, rural Hooghly district, India, December 2023
+
+Memberships
+======
+* Canadian Geophysical Union (CGU), since 2026
+* American Geophysical Union (AGU), since 2025
+* The Indian Institute of Geographers (IIG), since 2024
